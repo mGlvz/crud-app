@@ -1,5 +1,21 @@
 .App {
+  background-image: url(/src/images/paper.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vh;
+  padding: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: center;
+
+}
+
+body{
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {

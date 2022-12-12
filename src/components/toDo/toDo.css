@@ -1,0 +1,13 @@
+
+.complete{
+    color: black;
+}
+
+.incomplete{
+    color:#dd9989;
+
+}
+
+.hide-button{
+    display: none;
+}
